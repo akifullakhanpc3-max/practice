@@ -1,5 +1,9 @@
 hello 
 how r u 
 afternoon 
+<<<<<<< HEAD
 
 hehehe
+=======
+i am fine
+>>>>>>> 53085d75e352b9301a6ea34fce9c7cac758bb384
