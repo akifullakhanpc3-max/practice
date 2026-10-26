@@ -5,10 +5,8 @@ afternoon
 hehehe
 i am fine
 
-<<<<<<< HEAD
-=======
 haha
 hehehe
 
 lala
->>>>>>> 645d28e7a1399f5f8b22b168a449d543a88672c2
+yoo
